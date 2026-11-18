@@ -1,0 +1,23 @@
+PORTAFOLIO PERSONAL - JERIK YIONEL IPARRAGUIRRE FERRE
+
+CÓMO EJECUTAR
+1. Descomprime la carpeta.
+2. Abre index.html con Chrome, Edge o Firefox.
+3. No necesita instalación ni servidor para visualizarse.
+
+ARCHIVOS
+- index.html: estructura y contenido de la página.
+- styles.css: estilos, diseño adaptable y animaciones.
+- script.js: menú móvil, animaciones, edad automática y formulario de correo.
+- assets/: fotografías proporcionadas para el portafolio.
+
+PERSONALIZACIÓN
+- Edita index.html para cambiar textos, correo, formación, proyectos e intereses.
+- Reemplaza las imágenes de assets conservando sus nombres o actualiza las rutas del HTML.
+- Los porcentajes de habilidades y los proyectos son ejemplos iniciales editables.
+- La edad se calcula automáticamente a partir del 12/09/2003. Al 18/11/2026 corresponde a 23 años.
+
+NOTA SOBRE EL FORMULARIO
+El formulario prepara un mensaje mediante mailto y abre el programa de correo configurado en el dispositivo. Para recibir mensajes directamente desde la web se necesita conectar un servicio o backend.
+
+La tipografía se carga desde Google Fonts si hay conexión a internet. Si no hay conexión, se usan fuentes de respaldo.
